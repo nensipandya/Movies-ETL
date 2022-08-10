@@ -1,1 +1,0 @@
-db_password = 'greatindia*1'
